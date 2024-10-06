@@ -16,9 +16,9 @@ mydb = client[DATABASE_NAME]
 
 class Database():
     def __init__(self):
-        self.name = ['⌯ Ꭺɴᴏɴʏᴍᴏᴜꜱ | ×͜× |']
+        self.name = ['⌯ Hᴇᴀʀᴛ_Tʜɪᴇꜰ | ×͜× |']
         self.country = ['India']
-        self.language = ['Bengali', 'English']
+        self.language = ['Tamil', 'Telugu', 'English', 'Hindi']
 
     def new_viewer(self, id, name):
         return dict(
